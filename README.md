@@ -1,5 +1,8 @@
 # agentic_search_train
 
+<p align="center">
+  <img src="./logo.jpg" width="120" alt="TinyAgent Logo" />
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-EE4C2C.svg)](https://pytorch.org/)
