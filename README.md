@@ -1,7 +1,7 @@
 # agentic_search_train
 
 <p align="center">
-  <img src="./logo.png" width="800" alt="agentic_search" />
+  <img src="./logo.png" width="1200" alt="agentic_search" />
 </p>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
